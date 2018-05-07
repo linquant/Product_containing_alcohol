@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>productcontainingalcohol</name>
+	<displayName><![CDATA[Product containing alcohol]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[informs customers of the presence of alcohol in products ]]></description>
+	<author><![CDATA[Linquant]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
